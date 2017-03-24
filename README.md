@@ -4,7 +4,7 @@
 |---|---|---|---| 
 |   |23 March 2017|Vijayasaradhi Indurthi |Automatic Disambiguation of English Puns| 
 |[#](./Effective_Approaches_to_Attention_based_Neural_Machine_Translation)|9 March 2017|----|Effective Approaches to Attention-based Neural Machine Translation | 
-|[#](./Beyond%20Ranking:%20Optimizing%20Whole-Page%20Presentation)   |2 March 2017|Pulkit Parikh, Dhruv Khattar, Vaibhav Kumar|   | 
+|[#](./Beyond%20Ranking:%20Optimizing%20Whole-Page%20Presentation)   |2 March 2017|Pulkit Parikh, Dhruv Khattar, Vaibhav Kumar|node2vec: Scalable Feature Learning for Networks| 
 |   |23 February 2017|   |   | 
 |   |16 February 2017|Litton J Kurisinkel|Globally Coherent Text Generation with Neural Checklist Models| 
 |   |2 February 2017|   |   | 
