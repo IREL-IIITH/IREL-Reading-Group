@@ -7,7 +7,7 @@
 |2 March 2017|Pulkit Parikh, Dhruv Khattar, Vaibhav Kumar|[node2vec: Scalable Feature Learning for Networks](./Beyond%20Ranking:%20Optimizing%20Whole-Page%20Presentation)| 
 |23 February 2017|   |   | 
 |16 February 2017|Litton J Kurisinkel|Globally Coherent Text Generation with Neural Checklist Models| 
-|2 February 2017|   |   | 
+|2 February 2017|Pinkesh Badjatiya, Shashank Gupta, Nikhil Priyatam Pattisapu|[Generative Adversarial Nets - GANs](./Generative%20Adversarial%20Nets%20-%20GANs)| 
 |26 January 2017|   |   | 
 |19 January 2017|Dhruv Khattar, Vaibhav Kumar, Vijayasaradhi Indurthi|[node2vec: Scalable Feature Learning for Networks](./node2vec:%20Scalable%20Feature%20Learning%20for%20Networks)| 
 |12 January 2017|   |   | 
