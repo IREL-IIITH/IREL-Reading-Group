@@ -2,6 +2,7 @@
 
 |Date|Presenters|Topic   | 
 |---|---|---| 
+|6 April 2017|Nisarg Jhaveri, Raghuram Vadapalli|[Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data](https://www.aclweb.org/anthology/P/P16/P16-2094.pdf)| 
 |30 March 2017|Nikhil Priyatam Pattisapu |[A Persona-Based Neural Conversation Model](./A%20Persona-Based%20Neural%20Conversation%20Model)| 
 |23 March 2017|Vijayasaradhi Indurthi |[Automatic Disambiguation of English Puns](./Automatic%20Disambiguation%20of%20Puns)| 
 |9 March 2017|----|[Effective Approaches to Attention-based Neural Machine Translation](./Effective_Approaches_to_Attention_based_Neural_Machine_Translation) | 
