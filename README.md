@@ -14,3 +14,7 @@
 |19 January 2017|Dhruv Khattar, Vaibhav Kumar, Vijayasaradhi Indurthi|[Beyond Ranking: Optimizing Whole-Page Presentation](./Beyond%20Ranking:%20Optimizing%20Whole-Page%20Presentation)| 
 |12 January 2017|Raghuram, Raksha|[DSSM](./DSSM)| 
 |5 January 2017|   |   | 
+|30 May 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Social Network Analysis](./Social%20Network%20Analysis)| 
+|6 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Understanding Network Analysis through User Attributes and Behaviour](./Social%20Network%20Analysis)| 
+
+
