@@ -2,6 +2,7 @@
 
 |Date|Presenters|Topic   | 
 |---|---|---| 
+|6 June 2017|Vijayasaradhi Indurthi|[Identifying Weird and Bizarre news in online news media](./Identifying%20Weird%20and%20Bizarre%news)| 
 |6 April 2017|Nisarg Jhaveri, Raghuram Vadapalli|[Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data](https://www.aclweb.org/anthology/P/P16/P16-2094.pdf)| 
 |30 March 2017|Nikhil Priyatam Pattisapu |[A Persona-Based Neural Conversation Model](./A%20Persona-Based%20Neural%20Conversation%20Model)| 
 |23 March 2017|Vijayasaradhi Indurthi |[Automatic Disambiguation of English Puns](./Automatic%20Disambiguation%20of%20Puns)| 
