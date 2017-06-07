@@ -2,7 +2,9 @@
 
 |Date|Presenters|Topic   | 
 |---|---|---| 
+|6 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Understanding Network Analysis through User Attributes and Behaviour](./Social%20Network%20Analysis/Social%20Network%20Structure.pptx)| 
 |6 June 2017|Vijayasaradhi Indurthi|[Identifying Weird and Bizarre news in online news media](./Identifying%20Weird%20and%20Bizarre)| 
+|30 May 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Social Network Analysis](./Social%20Network%20Analysis/SNAStructurePresentation1.pptx)| 
 |6 April 2017|Nisarg Jhaveri, Raghuram Vadapalli|[Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data](https://www.aclweb.org/anthology/P/P16/P16-2094.pdf)| 
 |30 March 2017|Nikhil Priyatam Pattisapu |[A Persona-Based Neural Conversation Model](./A%20Persona-Based%20Neural%20Conversation%20Model)| 
 |23 March 2017|Vijayasaradhi Indurthi |[Automatic Disambiguation of English Puns](./Automatic%20Disambiguation%20of%20Puns)| 
@@ -14,8 +16,3 @@
 |26 January 2017|   |   | 
 |19 January 2017|Dhruv Khattar, Vaibhav Kumar, Vijayasaradhi Indurthi|[Beyond Ranking: Optimizing Whole-Page Presentation](./Beyond%20Ranking:%20Optimizing%20Whole-Page%20Presentation)| 
 |12 January 2017|Raghuram, Raksha|[DSSM](./DSSM)| 
-|5 January 2017|   |   | 
-|30 May 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Social Network Analysis](./Social%20Network%20Analysis/SNAStructurePresentation1.pptx)| 
-|6 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Understanding Network Analysis through User Attributes and Behaviour](./Social%20Network%20Analysis/Social%20Network%20Structure.pptx)| 
-
-
