@@ -2,6 +2,7 @@
 
 |Date|Presenters|Topic   |
 |---|---|---|
+27 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Anatomy of the Facebook Social Graph](./Anatomy%20of%20the%20Facebook%20Social%20Graph/Facebook_Anatomy.pdf)|
 20 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Anatomy of the Twitter Social Graph](./Anatomy%20of%20the%20Twitter%20Social%20Graph/TWITTER_ONLY.pdf)|
 |6 June 2017| Bakhtiyar Syed, Krishna Chaitanya Pappu|[Understanding Network Analysis through User Attributes and Behaviour](./Social%20Network%20Analysis/Social%20Network%20Structure.pptx)|
 |6 June 2017|Vijayasaradhi Indurthi|[Identifying Weird and Bizarre news in online news media](./Identifying%20Weird%20and%20Bizarre)|
